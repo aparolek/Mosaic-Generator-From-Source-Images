@@ -6,6 +6,7 @@ Within the "final_output" function the two varialbe src_image_width, src_image_h
 
 There is currently no error handling at all. A known error is using a low value for large images, the recursive image function hits the recursive depth.
 
+
 # PREREQUISITES
 - Pillow
 - opencv
